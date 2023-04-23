@@ -19,6 +19,7 @@
     "vite": "^4.2.0"
   },
   "dependencies": {
-    "card-validator": "^8.1.1"
+    "card-validator": "^8.1.1",
+    "svelte-input-mask": "^1.1.0"
   }
 }
